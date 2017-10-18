@@ -10,4 +10,4 @@ Better solutions than mine used the following methods:
 
 ** rather than writing my log if statement, folks used the format array.index(array.count(false) == 1 ? false : true)
 
-I think that the number of algorithmic steps is the same in my solution, but the amount of code I wrote is more.
+I think that the number of algorithmic steps is the same in my solution, but I wrote more lines of code.
